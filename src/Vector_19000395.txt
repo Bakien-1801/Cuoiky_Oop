@@ -1,0 +1,21 @@
+arrayVector: [1.0, 2.0, 3.0]
+arrayVector1: [4.0, 5.0, 6.0]
+length of arrayVector: 3
+magnitude of arrayVector: 3.7416573867739413
+distance between arrayVector and arrayVector1: 5.196152422706632
+elements of arrayVector1: [4.0, 5.0, 6.0]
+arrayVector1 minus with arrayVector: [3.0, 3.0, 3.0]
+arrayVector1 plus with arrayVector: [5.0, 7.0, 9.0]
+arrayVector1 scale with 2: [8.0, 10.0, 12.0]
+arrayVector1 dot with arrayVector: [8.0, 10.0, 12.0]
+========================
+listVector: [1.0, 2.0, 3.0]
+listVector1: [4.0, 5.0, 6.0]
+length of listVector: 3
+magnitude of listVector: 3.7416573867739413
+distance between listVector and listVector1: 5.196152422706632
+elements of listVector1: [4.0, 5.0, 6.0]
+listVector1 minus with listVector: [3.0, 3.0, 3.0]
+listVector1 plus with listVector: [5.0, 7.0, 9.0]
+listVector1 scale with 2: [8.0, 10.0, 12.0]
+listVector1 dot with listVector: [8.0, 10.0, 12.0]
